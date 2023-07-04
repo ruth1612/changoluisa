@@ -1,0 +1,23 @@
+  QUE ES GITHUB
+Es un portal creado para alojar el código de las aplicaciones de cualquier desarrollador, y 
+que fue comprada por Microsoft en junio del 2018. La plataforma está creada para que los desarrolladores suban el código de sus aplicaciones 
+y herramientas, y que como usuario no sólo puedas descargarte la aplicación, sino
+también entrar a su perfil para leer sobre ella o colaborar con su desarrollo.
+PARA que sirve: es una aplicación o acceder a su perfil para leer o colaborar en el desarrollo de los diferentes proyectos..
+Como sirve: cómo funciona Github y por qué tiene tanto éxito en todo el mundo. Para eso,  haremos una “disección” y veremos qué partes son las que lo forman para entenderlo mejor.
+QUE ES DOCKER
+empaqueta software en unidades estandarizadas llamadas contenedores que incluyen todo lo necesario para que el software se ejecute, incluidas bibliotecas, herramientas de sistema, 
+código y tiempo de ejecución. Con Docker, puede implementar yajustar la escala de aplicaciones rápidamente en cualquier entorno con la certeza de saber que su código se ejecutará.
+PARA que sirve:le permite entregar código con mayor rapidez, estandarizar las operaciones de las aplicaciones, transferir el código con facilidad y ahorrar dinero al mejorar el 
+uso de recursos. Con Docker, obtiene un solo objeto que se puede ejecutar de manera fiable en cualquier lugar. La sintaxis sencilla y simple de Docker le aporta un control 
+absoluto. La amplia adopción significa que existe un gran ecosistema de herramientas y aplicaciones listas para su uso que puede utilizar con Docker.
+COMO FUNCIONA:proporciona una manera estándar de ejecutar su código. Docker es un sistema operativo para contenedores. De manera similar a cómo una máquina virtual virtualiza (elimina 
+la necesidad de administrar directamente) el hardware del servidor, los contenedores virtualizan el sistema 
+operativo de un servidor. Docker se instala en cada servidor y proporciona comandos sencillos que puede utilizar para crear, iniciar o detener contenedores.
+QUE ES GOOGLE CONSOLE 
+Gestiona y consulta toda la información imprescindible sobre los elementos que sostienen tu aplicación en la nube: aplicaciones web, análisis de datos, máquinas virtuales, almacenes 
+y bases de datos, redes y servicios de desarrollo.
+La consola de Google Cloud te ayuda a desplegar, escalar y diagnosticar problemas de producción en una sencilla interfaz web.
+PARA QUE SIRVE:
+COMO FUNCIONA: Google Cloud es el único proveedor de servicios en la nube que trabaja con energía renovable. Es el camino que debes seguir si tu destino es la sustentabilidad.
+Para conocer con más detalles los servicios principales de GCP recomendamos ver la página del producto.
